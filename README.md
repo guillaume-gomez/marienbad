@@ -1,6 +1,8 @@
 # Marienbad
 
-A marienbad coded in C during my freshman year
+A marienbad coded in C during my freshman year. 
+
+language : French
 
 ## Compile
 ```
