@@ -1,1 +1,14 @@
-# marienbad
+# Marienbad
+
+A marienbad coded in C during my freshman year
+
+## Compile
+```
+gcc -c main.c
+gcc -o main main.o
+```
+
+## Run
+```
+./main
+```
